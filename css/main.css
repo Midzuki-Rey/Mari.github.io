@@ -18,12 +18,6 @@
 	src: url(../fonts/raleway-v22-cyrillic-900.woff2);
 	font-weight: 900;
 }
-.frame__content {
-  font-size: 1.em;
-  color: rgb(213, 213, 213);
-  text-align: center;
-  text-transform: uppercase;
-}
 body, html {
 	width: 100%;
 	height: 100%;
@@ -32,6 +26,12 @@ body, html {
 	font-family: raleway_m, sans-serif;
 	overflow: hidden;
 	line-height: 1.8;
+}
+.frame__content {
+  font-size: 1.em;
+  color: rgb(213, 213, 213);
+  text-align: center;
+  text-transform: uppercase;
 }
 .slider {
 	height: 100%;
