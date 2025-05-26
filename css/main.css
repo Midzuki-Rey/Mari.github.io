@@ -96,3 +96,9 @@ body, html {
 .description.hidden p {
 	transform: translateY(2vh);
 }
+.frame__content {
+  font-size: 1.em;
+  color: rgb(213, 213, 213);
+  text-align: center;
+  text-transform: uppercase;
+}
