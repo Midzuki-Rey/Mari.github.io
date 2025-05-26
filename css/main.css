@@ -27,12 +27,6 @@ body, html {
 	overflow: hidden;
 	line-height: 1.8;
 }
-.frame__content {
-        font-size: 1.em;
-        color: rgb(213, 213, 213);
-	text-align: center;
-	text-transform: uppercase;
-}
 .slider {
 	height: 100%;
 	transform: rotate(15deg);
